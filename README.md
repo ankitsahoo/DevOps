@@ -63,7 +63,7 @@ OtherTech :- SQL, X-Ray, Postman, Tomact, jUnit, YAML
 - Day 24: Serverless Computing - Introduction to serverless architecture and Azure Functions for event-driven applications.
 - Day 25: Cloud-native Architecture - Understanding the principles and patterns of building applications for cloud environments.
 
-## Day 26-30: DevOps Best Practices and Case Studies (Not finalized)
+## Day 26-30: DevOps Best Practices and Case Studies
 
 - Day 26: Continuous Testing - Integrating automated testing into the CI/CD pipeline for faster feedback.
 - Day 27: Release Management - Best practices for managing software releases and deployment strategies.
